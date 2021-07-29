@@ -14,10 +14,10 @@
 
 
 
-- 🔭 I’m currently working on Mobile Application development.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Web and Mobile Application development.
+- 🌱 I’m currently learning all about full stack development.
 - 💬 Ask me about Flutter or frontend development.
-- 😄 Pronouns: she/her
+- 😄 Open to contribute in your projects.
 
 
 
