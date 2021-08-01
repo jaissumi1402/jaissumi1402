@@ -14,9 +14,9 @@
 
 
 
-- 🔭 I’m currently working on Web and Mobile Application development.
-- 🌱 I’m currently learning all about full stack development.
-- 💬 Ask me about Flutter or frontend development.
+- 🔭 I love to develope mobile application using flutter.
+- 🌱 I’m currently learning all about full stack development and dsa.
+- 💬 Ask me about frontend development.
 - 😄 Open to contribute in your projects.
 
 
