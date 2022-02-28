@@ -5,10 +5,12 @@
 
 
 
-- 🔭 I love to develope mobile application using flutter.
+- 🔭 I am a web developer.
 - 🌱 I’m currently learning all about full stack development and data structure.
-- 💬 Ask me about frontend development.
+- 💬 Ask me about node.js development.
 - 😄 Open to contribute in your projects.
+
+*My work github account-<a href="https://github.com/sumi3W"> sumi3W </a>*
 
 
 
