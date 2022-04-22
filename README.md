@@ -10,7 +10,7 @@
 - 💬 Ask me about node.js development.
 - 😄 Open to contribute in your projects.
 
-*My work github account-<a href="https://github.com/sumi3W"> sumi3W </a>*
+
 
 
 
@@ -43,7 +43,7 @@
 
 
 <a href="https://github.com/jaissumi1402">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaissumi1402&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ 
 </a>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaissumi1402&" alt="jaissumi1402" /></p>
 
