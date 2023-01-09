@@ -45,7 +45,9 @@
 <a href="https://github.com/jaissumi1402">
  
 </a>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaissumi1402&" alt="jaissumi1402" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaissumi1402&theme=tokyonight&layout=compact&" alt="jaissumi1402" /></p>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaissumi1402&theme=tokyonight&layout=compact)
 
 <div align="center">
 
