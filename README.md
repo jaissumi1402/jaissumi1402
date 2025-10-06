@@ -5,9 +5,7 @@
 
 
 
-- 🔭 I am a web developer.
-- 🌱 I’m currently learning all about full stack development and data structure.
-- 💬 Ask me about node.js development.
+- 🔭 I am SDE at Flipkart.
 - 😄 Open to contribute in your projects.
 
 
