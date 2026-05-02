@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I am SDE at Flipkart.
+- 🔭 I am SDE 2 at Flipkart.
 - 😄 Open to contribute in your projects.
 
 
